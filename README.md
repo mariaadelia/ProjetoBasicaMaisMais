@@ -13,6 +13,6 @@
 	✅ Terminado 🚀
 </h4>
 
-
-<p align="justify">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<p align="justify" "#autorxs">
 Esse trabalho foi criado juntamente com @GustavoNovaess, @eltonsantos07, @avelina1 e @gabrielagsoares</p>
