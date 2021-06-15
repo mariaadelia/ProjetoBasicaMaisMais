@@ -8,12 +8,14 @@
  <a href="#autorxs">Autoras e Autores</a>
 </p>
 <br/>
-<p align="justify"> Projeto final criado para o primeiro módulo do curso da Generation Brasil onde criamos um sistema para contabilizar os doadores, recebedores e itens das cestas básicas, além de atualizar o estoque de uma ong (com o recebimento ou a retirada dos produtos). </p>
+<p align="justify">
+<h4>Objetivo</h4>
+Projeto final criado para o primeiro módulo do curso da Generation Brasil onde criamos um sistema para contabilizar os doadores, recebedores e itens das cestas básicas, além de atualizar o estoque de uma ong (com o recebimento ou a retirada dos produtos). </p>
 
 <br/>
 <p align="justify">
 	<h4>Status do Projeto</h4>
-	✅ Terminado 🚀
+	-[x] Terminado 🚀
 </p>
 
 <br/>
